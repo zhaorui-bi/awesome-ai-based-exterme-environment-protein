@@ -1,4 +1,4 @@
-# awesome ai-based extreme environment protein design
+# awesome ai-based extreme environment protein
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]([https://github.com/hee9joon/Awesome-Diffusion-Models](https://github.com/smiles724/Awesome-Diffusion-Models-in-Molecules))
 # Contents
